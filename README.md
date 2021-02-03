@@ -9,7 +9,7 @@ the problem.
 If interested in my approach and comments, I invite you to visit
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/03/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 
 Keep in mind that one of the bests ways to leard is to read and experiment.
 Enjoy;
